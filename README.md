@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **diferents tools and skills about cibersecurity.**
 
-- 📫 How to reach me **martincamposzamora@gmail.com**
+- 📫 How to reach me: **martincamposzamora@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
