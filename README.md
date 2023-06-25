@@ -11,6 +11,7 @@ Here's a list of the core technologies I work with:
 
 - Python: I have developed strong skills in Python for automating tasks, analyzing data, and creating security tools.
 - C: I also have experience in C programming, allowing me to work on low-level projects and gain a deeper understanding of system internals.
+- Bash Scripts: I am proficient in writing Bash scripts for automation, system administration, and cybersecurity tasks.
 
 ## 🌱 Lifelong Learning
 I am always in a state of continuous learning, seeking opportunities to expand my knowledge and enhance my skills. I am passionate about problem-solving and enjoy taking on new challenges in the field of cybersecurity.
