@@ -1,12 +1,26 @@
-<h1 align="center">Hi, I'm Martín 🐼</h1>
-<h3 align="center">A student of Computer Engineering💻</h3>
+# Welcome to my GitHub Profile! 👋
 
-* 🌱 I’m currently learning **diferents tools and skills about cibersecurity**.
-* 🥇 One of the best proyects that I developed in group is [compraMicroservicios](https://github.com/campos748/compraMicroservicios)
+## About Me
+Hello! I'm Campos, a cybersecurity enthusiast with a passion for programming. I love exploring the world of cybersecurity and applying creative solutions to protect systems and data.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+## 🔒 Cybersecurity
+My primary focus is on cybersecurity, where I utilize my technical skills to identify vulnerabilities, analyze risks, and develop effective protection strategies. I stay updated on the latest threats and solutions in this ever-evolving field.
 
-</p>
+## 💻 Core Technologies
+Here's a list of the core technologies I work with:
 
+- Python: I have developed strong skills in Python for automating tasks, analyzing data, and creating security tools.
+- C: I also have experience in C programming, allowing me to work on low-level projects and gain a deeper understanding of system internals.
 
+## 🌱 Lifelong Learning
+I am always in a state of continuous learning, seeking opportunities to expand my knowledge and enhance my skills. I am passionate about problem-solving and enjoy taking on new challenges in the field of cybersecurity.
+
+## 🤝 Collaboration
+I love collaborating with fellow professionals and learning from their experiences. I am open to collaboration opportunities on projects related to cybersecurity and programming. If you have interesting ideas or just want to have a chat, feel free to reach out!
+
+## 📫 How to Reach Me
+You can find me on the following platforms:
+
+- [LinkedIn](https://www.linkedin.com/in/martin-campos748/)
+
+Thank you for visiting my profile! I am excited to share projects, code, and knowledge in the exciting world of cybersecurity. Feel free to explore my repositories and leave your comments! 😄
