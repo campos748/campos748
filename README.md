@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 😶‍🌫️ About Me:
 Hi! I'm Martín, a passionate Computer Engineer specializing in technological innovation within the cybersecurity field. I began my professional journey analyzing firmware for IoT devices, and I currently work as a Cybersecurity Engineer-Researcher, focusing on Financial Cryptography and Hardware Security. I thrive on continuous learning and am always eager to explore new topics. I actively seek to expand my knowledge across various areas of security beyond my specialization, while also deepening my understanding of Software Architecture.
 
 
