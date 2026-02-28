@@ -1,5 +1,5 @@
 # 😶‍🌫️ About Me:
-Hi! I'm Martín, a passionate Computer Engineer specializing in technological innovation within the cybersecurity field. I began my professional journey analyzing firmware for IoT devices, and I currently work as a Cybersecurity Engineer-Researcher, focusing on Financial Cryptography and Hardware Security. I thrive on continuous learning and am always eager to explore new topics. I actively seek to expand my knowledge across various areas of security beyond my specialization, while also deepening my understanding of Software Architecture.
+Hi! I'm Martín, a passionate Computer Engineer with a Master's degree in Cybersecurity and Privacy. Passionate about technological innovation as a driver of change for society. I am driven by understanding how systems work and the context in which they operate in order to design solutions that deliver real value, balancing technical, business, and user needs. I currently work on developing solutions for the financial cryptography sector, with a special focus on improving cryptoagility and the secure evolution of critical systems.
 
 
 ## 🌐 Socials:
@@ -11,8 +11,3 @@ Hi! I'm Martín, a passionate Computer Engineer specializing in technological in
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=campos748&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=campos748&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=campos748&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
